@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mercadopago/dx-php": "^2.5",
+        "moneyphp/money": "^3.3"
+    }
+}
